@@ -32,5 +32,4 @@ function pridajZiarovku() {
     tlacidloPrepnut.style.display = 'inline';
     tlacidloVymazat.style.display = 'inline';
     tlacidloPridat.style.display = 'none';
-
 }
