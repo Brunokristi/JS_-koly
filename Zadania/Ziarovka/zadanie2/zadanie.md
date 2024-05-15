@@ -56,7 +56,7 @@ function pridajZiarovku() {
 
 > **Bonusové úlohy**  ➕
 
->1. Zariaďte, aby sa žiarovka zobrazovala a skrývala aj keď kliknem na samotnú ťiarovku.
+>1. Zariaďte, aby sa žiarovka zobrazovala a skrývala aj keď kliknem na samotnú žiarovku.
 
 >2. Keď vymažeme žiarovku zo stránky, taktiež odstráňme paragrafy `<p>` z celej stránky. 
 
