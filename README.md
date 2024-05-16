@@ -12,7 +12,7 @@
 
 
 
-![Ziarovka](zdroje/js_css_html.png)
+![Príklad](zdroje/js_css_html.png)
 
 </center>
 
