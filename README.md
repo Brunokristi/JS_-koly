@@ -12,7 +12,7 @@
 
 
 
-![Príklad](zdroje/js_css_html.png)
+![Príklad](Zdroje/js_css_html.png)
 
 </center>
 
