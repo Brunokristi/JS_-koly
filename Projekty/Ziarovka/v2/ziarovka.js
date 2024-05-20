@@ -7,7 +7,6 @@ function zmenStavZiarovky() {
     }
 }
 
-
 function odstranZiarovku() {
     var potvrdenie = confirm('Naozaj chcete odstrániť žiarovku?');
     var tlacidloPrepnut = document.getElementById('tlacidloPrepnut');
